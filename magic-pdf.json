@@ -1,0 +1,9 @@
+{
+    "bucket_info":{
+        "bucket-name-1":["ak", "sk", "endpoint"],
+        "bucket-name-2":["ak", "sk", "endpoint"]
+    },
+    "temp-output-dir":"D:/c_projectss/03_PFN/1_dataGet/9.1_MinerU/output",
+    "models-dir":"D:/c_projectss/03_PFN/1_dataGet/9.1_MinerU/PDF-Extract-Kit/models",
+    "device-mode":"cuda"
+}
